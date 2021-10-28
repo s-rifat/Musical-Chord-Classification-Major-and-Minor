@@ -13,3 +13,4 @@ The method works by taking an input audio, assigning importance to various
 aspects in the audio, extracting the features and being able to differentiate one from
 the other by analyzing the features and spectrogram data.
 </p>
+Web application Link: https://musical-chord-classification.herokuapp.com/
